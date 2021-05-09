@@ -52,18 +52,17 @@
 
 ## Program-Hakkında
 
-**Üniversite sınavına hazırlanan öğrencilerin çözdükleri soru,deneme vb gibi verileri veritabanında tutup ,kolaylıkla öğrencinin başarısını ve gidişatını grafiksel bir şekilde izleyip görüntülemesini sağlayan bir programdır.Türkçe ve basit arayüzü ile kullanım zorluğu yaşamayacaksınız.**
+**Whatsapp'ınızdaki sohbetlerde kayıtlı olan herhangi bir kişinin,ne zaman aktif olduğunu kaç dakika açık kaldığını size bildiren.Üstelik bunları yaparken çevrimiçi gözükmemeyi de sağlayan bir yazılımdır.**
 
 `BrktrLawliet`,
 `brktrl@protonmail.ch`
-`Öğrenci Takip`
+`Whatsapp Kullanıcı Takip`
 
 
 ### Ne-İle-Geliştirildi
 
 * [PyQt5](https://pypi.org/project/PyQt5/)
 * [Python3](https://www.python.org)
-* [Matplotlib](https://www.matplotlib.org)
 
 ## Başlangıç
 
@@ -74,11 +73,10 @@ Kurulumda Windows işletim sistemleri için sadece setup dosyasını indirmeniz 
 0. -Windows-
 
 Windows için setup dosyasını indirip klasik bir kurulum dosyası şeklinde kurabilirsiniz.
-(Henüz Geliştirme Aşamasında olduğu için kurulum dosyası hazırlanmamıştır.)
 
 ## Kullanım
 
-Kurma işlemini gerçekleştirdikten sonra soldaki tüm sekmelerin içerisinde yardım menülerini okuyup işlemlerinizi yapınız.Henüz geliştirme aşamasında olduğu için bug'ları bulunabilir.Lütfen bunları bana bildiriniz.
+Kurma işlemini gerçekleştirdikten sonra sohbetlerinizde bulunan kişinin ismini programdaki ilgili yere yazıp takip etmeyi çalıştırdığınızda sizin seçtiğiniz tarayıcıda whatsapp web açılacaktır.QR Kodu okuttuktan sonra tarayıcınızı ve programınızı aşağıya alıp günlük işlerinize devam edebilirsiniz.Uygulama sizin için log tutmaya devam edecektir.Hiçbir şekilde endişeniz olmasın.Açık kaynak yazılım olduğundan istediğiniz gibi inceleyebilirsiniz uygulamayı.Zararsız olduğunu siz de göreceksiniz.
 
 ## Desteklediği-İşletim-Sistemleri
 * Windows
@@ -86,18 +84,16 @@ Kurma işlemini gerçekleştirdikten sonra soldaki tüm sekmelerin içerisinde y
 ## Images
 Programın arayüzünden örnek resimler.
 <img src="images/Capture.JPG"></img><br>
-<img src="images/Capture3.JPG"></img><br>
-<img src="images/Capture2.JPG"></img><br>
 ## lisans
 
-Distributed under the APACHE License. See `LICENSE` for more information.<br>
+Distributed under the MIT License. See `LICENSE` for more information.<br>
 Copyright (c) 2021 
 
 ## Iletisim
 
 E-Mail Adresi:E-Mail - brktrl@protonmail.ch
 
-Proje Linki: [https://github.com/Brktrlw/Riglsable](https://github.com/Brktrlw/Riglsable)<br>
+Proje Linki: [https://github.com/Brktrlw/wptakip](https://github.com/Brktrlw/wptakip)<br>
 <!--Web Site Linki: [http://www.riglsable.rf.gd/](http://www.riglsable.rf.gd/)-->
 
 
