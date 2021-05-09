@@ -72,7 +72,7 @@ Kurulumda Windows işletim sistemleri için sadece setup dosyasını indirmeniz 
 ### Kurulum
 0. -Windows-
 
-Windows için setup dosyasını indirip klasik bir kurulum dosyası şeklinde kurabilirsiniz.
+Windows için mysetup.exe dosyasını indirip klasik bir kurulum dosyası şeklinde kurabilirsiniz.
 
 ## Kullanım
 
